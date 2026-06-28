@@ -1,3 +1,3 @@
-from . import calculator, chart_generator
+from . import calculator, interest_calculator, chart_generator
 
-__all__ = ["calculator", "chart_generator"]
+__all__ = ["calculator", "interest_calculator", "chart_generator"]
