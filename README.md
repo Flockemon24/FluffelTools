@@ -15,7 +15,7 @@ A versatile, no-AI Python productivity suite built with Streamlit. It combines e
 - Chart Generator
 - Vocabulary Trainer (Work in Progress)
 - Unit Converter (Work in Progress)
-- Password Generator (Work in Progress)
+- Password Generator
 - Weather App (Work in Progress)
 
 ---
